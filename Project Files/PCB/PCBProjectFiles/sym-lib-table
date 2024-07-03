@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SparkFun_SchematicComponents")(type "Legacy")(uri "C:/Users/sethd/Downloads/SparkFun_SchematicComponents.lib")(options "")(descr ""))
+  (lib (name "MagTableLib")(type "KiCad")(uri "${KIPRJMOD}/MagTableLib.kicad_sym")(options "")(descr ""))
+)
